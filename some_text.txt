@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 Mountains and Hills in the UK
 ===================
+=======
+>>>>>>> parent of 4d15eec (Add a lie about a mountain)
 England is not very mountainous.
 But has some tall hills, and maybe a mountain or two depending on your defintion. 
-
-Mount Fictional, in Barsetshire, U.K. is the tallest mountain in the world. 
